@@ -1,0 +1,5 @@
+{
+  "name": "CareEase: Pain & Dyspnea Manager",
+  "description": "A comprehensive clinical tool for assessing pain (NRS, Faces, CPOT) and dyspnea, offering personalized pharmacological and non-pharmacological management strategies.",
+  "requestFramePermissions": []
+}
